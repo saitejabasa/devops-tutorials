@@ -3,6 +3,7 @@ Links to DevOps tutorial videos.
 
 ## Docker:
 * [What is Docker?](https://www.youtube.com/watch?v=lcQfQRDAMpQ)
+* [What is Docker & Docker Containers](https://www.youtube.com/watch?v=pGYAg7TMmp0)
 * [Install on Linux](https://www.youtube.com/watch?v=KCckWweNSrM)
 * [Creating your first image](https://www.youtube.com/watch?v=hnxI-K10auY)
 * [Useful commands](https://www.youtube.com/watch?v=YFl2mCHdv24)
