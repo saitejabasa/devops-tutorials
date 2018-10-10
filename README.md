@@ -11,6 +11,7 @@ Links to DevOps tutorial videos.
 https://docs.docker.com/install/linux/linux-postinstall/)
 
 ## AWS:
+* [AWS in 10 Minutes](https://www.youtube.com/watch?v=r4YIdn2eTm4)
 * [EC2](https://www.youtube.com/watch?v=Xs0g_ZEv2bw&index=1&list=PLtK75qxsQaMLBnk4-J7WNBZHJgN-LQRjv)
 * [AMI](https://www.youtube.com/watch?v=vlE3yTmz6So)
 * [Elastic BeanStalk](https://www.youtube.com/watch?v=96DJ2Og90hU)
