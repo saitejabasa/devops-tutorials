@@ -10,6 +10,7 @@ Links to DevOps tutorial videos.
 * Don't forget to give permissions to the current user. [Linux](
 https://docs.docker.com/install/linux/linux-postinstall/)
 * Command cheat sheet: [Docker CLI](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf) | [Dockerfile](http://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) | [Command usage in Dockerfile](https://devhints.io/dockerfile)
+* [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 
 ## AWS:
 * [AWS in 10 Minutes](https://www.youtube.com/watch?v=r4YIdn2eTm4)
