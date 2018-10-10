@@ -7,6 +7,8 @@ Links to DevOps tutorial videos.
 * [Install on Linux](https://www.youtube.com/watch?v=KCckWweNSrM)
 * [Creating your first image](https://www.youtube.com/watch?v=hnxI-K10auY)
 * [Useful commands](https://www.youtube.com/watch?v=YFl2mCHdv24)
+* Don't forget to give permissions to the current user. [Linux](
+https://docs.docker.com/install/linux/linux-postinstall/)
 
 ## AWS:
 * [EC2](https://www.youtube.com/watch?v=Xs0g_ZEv2bw&index=1&list=PLtK75qxsQaMLBnk4-J7WNBZHJgN-LQRjv)
