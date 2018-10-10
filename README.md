@@ -18,6 +18,7 @@ https://docs.docker.com/install/linux/linux-postinstall/)
 * [S3](https://www.youtube.com/watch?v=LfBn5Y1X0vE)
 * [RDS Part 1](https://www.youtube.com/watch?v=LnAvUOmH1n0)
 * [RDS Part 2](https://www.youtube.com/watch?v=vE2E7cYJ0IQ)
+* [Using Docker in AWS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html)
 
 ## Jenkins:
 * [Jenkins basics playlist](https://www.youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG)
