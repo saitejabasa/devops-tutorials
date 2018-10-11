@@ -7,6 +7,7 @@ Links to DevOps tutorial videos.
 * [Install on Linux](https://www.youtube.com/watch?v=KCckWweNSrM) | [Install on Mac](https://www.youtube.com/watch?v=MU8HUVlJTEY)
 * [Creating your first image](https://www.youtube.com/watch?v=hnxI-K10auY)
 * [Useful commands](https://www.youtube.com/watch?v=YFl2mCHdv24)
+* [Docker for beginners (with samples)](https://github.com/docker/labs/tree/master/beginner/)
 * Don't forget to give permissions to the current user. [Linux](
 https://docs.docker.com/install/linux/linux-postinstall/)
 * Command cheat sheet: [Docker CLI](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf) | [Dockerfile](http://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) | [Command usage in Dockerfile](https://devhints.io/dockerfile)
