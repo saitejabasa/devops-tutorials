@@ -1,6 +1,9 @@
 # devops-tutorials
 Links to DevOps tutorial videos.
 
+## MySQL:
+* [Import/Export database](https://www.digitalocean.com/community/tutorials/how-to-import-and-export-databases-in-mysql-or-mariadb)
+
 ## Docker:
 * [What is Docker?](https://www.youtube.com/watch?v=lcQfQRDAMpQ)
 * [What is Docker & Docker Containers](https://www.youtube.com/watch?v=pGYAg7TMmp0)
