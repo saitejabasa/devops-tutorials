@@ -1,5 +1,5 @@
 # devops-tutorials
-Links to DevOps tutorial videos.
+Links to DevOps tutorial videos/articles.
 
 ## MySQL:
 * [Import/Export database](https://www.digitalocean.com/community/tutorials/how-to-import-and-export-databases-in-mysql-or-mariadb)
