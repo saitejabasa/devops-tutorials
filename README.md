@@ -18,6 +18,9 @@ https://docs.docker.com/install/linux/linux-postinstall/)
 * [Using MySQL in Docker](https://www.youtube.com/watch?v=-LrK9VWXfac)
 * [Linking containers](https://www.youtube.com/watch?v=HY3WDz6j_hU)
 
+## Docker Compose:
+* [Docker Compose in 12 minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)
+
 ## AWS:
 * [AWS in 10 Minutes](https://www.youtube.com/watch?v=r4YIdn2eTm4)
 * [EC2](https://www.youtube.com/watch?v=Xs0g_ZEv2bw&index=1&list=PLtK75qxsQaMLBnk4-J7WNBZHJgN-LQRjv)
